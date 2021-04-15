@@ -5,4 +5,4 @@ def calc(a, b):
     divide = a / b
 
     everything = [add, subtract, multiply, divide]
-    
+    total = sum(everything)
