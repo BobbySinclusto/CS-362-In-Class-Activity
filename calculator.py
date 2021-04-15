@@ -4,3 +4,5 @@ def calc(a, b):
     multiply = a * b
     divide = a / b
 
+    everything = [add, subtract, multiply, divide]
+    
