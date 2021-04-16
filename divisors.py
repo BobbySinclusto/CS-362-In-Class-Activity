@@ -4,4 +4,3 @@ def divisors(n):
             print(i)
 
 n = int(input("Enter the number to display divisors for: "))
-print(divisors(n))
